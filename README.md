@@ -63,6 +63,15 @@ CCP maps evaluator concern into coarse response modes:
 | L3 | Refuse and redirect to safer alternatives |
 | L4 | Hard refuse high-risk enablement |
 
+Security Notice
+
+This repository is designed for transparency and research understanding.
+
+It is not a specification of enforcement boundaries.
+
+Attempting to reverse-engineer safety behavior from this repository will result in incomplete and misleading conclusions, as critical components are intentionally omitted or abstracted.
+
+
 ## Public Redaction Policy
 
 All public examples must be abstract and redacted. Use placeholders such as `[REDACTED_REQUEST]`, `[SENSITIVE_TARGET]`, and `[OPERATIONAL_DETAIL_REMOVED]`.
