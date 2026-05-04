@@ -6,6 +6,30 @@ This public repository presents the framework at a high level. It intentionally 
 
 ---
 
+## Why This Repository Exists
+
+This project is motivated by real-world events where gaps between intent and capability led to irreversible harm.
+
+Incidents such as public mass violence — including school and public-space shootings — reveal a critical safety challenge:
+
+The risk is not only in explicit harmful instructions,
+but in subtle guidance that helps bridge the gap between abstract intent and practical capability.
+
+In many cases, individuals do not begin with a complete plan.
+They move from vague thoughts to actionable steps over time — often through fragmented information, multi-turn interactions, or seemingly harmless analysis.
+
+This repository explores a different approach to AI safety:
+
+Instead of focusing on keywords or isolated responses,
+it focuses on whether an AI system reduces the **capability gap** for non-expert users.
+
+The Capability Constraint Protocol (CCP) is designed to detect and constrain that transition —
+before abstract intent becomes real-world execution.
+
+This work does not attempt to analyze or reproduce any specific incident.
+It exists to prevent future harm by improving how AI systems evaluate risk at the capability level.
+
+
 ## What Problem This Solves
 
 AI safety failures are not always caused by explicit harmful instructions.
