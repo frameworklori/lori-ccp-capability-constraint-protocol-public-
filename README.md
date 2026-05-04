@@ -37,7 +37,7 @@ This public repository only contains:
 - Simplified CJM-R explanation.
 - Redacted evaluation schema.
 - Non-operational examples.
-- Ethics, limitations, origin, and license files.
+- Ethics and limitations statements.
 
 It does not contain:
 
@@ -46,6 +46,7 @@ It does not contain:
 - Full adversarial stress tests.
 - Red-team trajectories.
 - Evaluator prompts.
+- Origin statements and license variants controlled outside the public layer.
 - Real attack procedures.
 - Operational harmful instructions.
 
@@ -67,4 +68,3 @@ CCP maps evaluator concern into coarse response modes:
 All public examples must be abstract and redacted. Use placeholders such as `[REDACTED_REQUEST]`, `[SENSITIVE_TARGET]`, and `[OPERATIONAL_DETAIL_REMOVED]`.
 
 Public material must explain the safety framework without helping users bypass AI safety systems.
-
